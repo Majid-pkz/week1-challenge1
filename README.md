@@ -1,4 +1,4 @@
-#HTML CSS Git Challenge: Code Refactor using Semantic code 
+# HTML CSS Git Challenge: Code Refactor using Semantic code 
 ## User Story
 AS A botcamp student
 I WANT a codebase that follows accessibility standards
