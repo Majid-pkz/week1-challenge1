@@ -5,13 +5,13 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+1-WHEN I view the source code
+2-THEN I find semantic HTML elements
+3-WHEN I view the structure of the HTML elements
+4-THEN I find that the elements follow a logical structure independent of styling and positioning
+5-WHEN I view the image elements
+6-THEN I find accessible alt attributes
+7-WHEN I view the heading attributes
+8-THEN they fall in sequential order
+9-WHEN I view the title element
+10-THEN I find a concise, descriptive title
